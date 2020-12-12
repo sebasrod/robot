@@ -3,7 +3,7 @@
 * Sebastián Rodríguez Robotham
 * Herman Sotomayor
 
-**Este proyecto implementa funciones escenciales para poder controlar un robot en ambiente Webot.**
+**Este proyecto implementa funciones esenciales para poder controlar un robot en ambiente Webot.**
 
 
 ## Métodos Implementados
